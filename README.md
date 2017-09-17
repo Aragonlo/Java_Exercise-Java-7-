@@ -4,6 +4,7 @@ http://www.dropwizard.io/0.9.2/docs/getting-started.html
 
 Endpoint:
 >>http://localhost:8080/hello-world?name=Successful+Dropwizard+User
+
 >>http://localhost:8080/hello-world
 
 Command:
